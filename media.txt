@@ -11,7 +11,7 @@ inicio
     se(media >= 7) 
         então
         
-            escreva("Aluno aprovado!");
+            escreva("Aluno aprovado");
 
     fimse
 
